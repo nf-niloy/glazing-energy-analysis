@@ -130,7 +130,10 @@ The `.dsb` files are the original DesignBuilder project models. The CSV files ar
 - A complete comfort assessment, economic payback analysis, climate-sensitivity study, or independent validation was outside the reported scope.
 - Original data and model binaries have been preserved; the project does not include a separate automated post-processing script.
 
-## Report and author
+
+## Report and Author
+
+This work was carried out as part of an undergraduate academic project in the Department of Energy Science and Engineering at Khulna University of Engineering & Technology (KUET), Bangladesh.
 
 **Full report:** [Parametric Evaluation of Glazing Systems and Their Influence on Building Cooling Energy and Solar Heat Gain (PDF)](report/glazing-systems-energy-performance.pdf)
 
