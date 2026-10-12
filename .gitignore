@@ -1,0 +1,21 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary, backup and editor files
+*.tmp
+*.temp
+*.bak
+*.log
+~$*
+.vscode/
+.idea/
+
+# Optional future Python analysis
+__pycache__/
+*.py[cod]
+.venv/
+
+# Generated exports (do not exclude original models/results)
+*.autosave
